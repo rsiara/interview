@@ -21,6 +21,9 @@
     - Singleton
     - Builder
     - Factory
+  - Podstawowe operacje na Stringu, kiedy używać StringBuilder-a
+  - Kolekcje w Javie, Map, List, ArrayList, Set, LinkedList, TreeSet. Czym się różnią. Jakie są podsawowe 3 interfejsy Set,List,Queue(Collections) a także Mapy
+  - StringUtils z https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.12.0, najbardziej popularne operacje isBlank, isEmpty itp.
 ### 4. Testowanie - Generalnie
   - Page Object Model https://testingplus.me/2017/03/05/page-object-model/
   - Page Factory
@@ -40,5 +43,8 @@
   - Trunk Based Development vs Git Flow
 ### 9. Selenium
   - Dobre praktyki Selenium i pisania testów: https://www.browserstack.com/guide/best-practices-in-selenium-automation
+  - Dobre praktyki z waitami
 ### 10. SCRUM, praca w zespole
   - Daily, Sprint, Review, Retrospekcja
+### 11. Zadania praktyczne do przećwiczenia
+  - Sprawdzenie czy String jest palindromem
