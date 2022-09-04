@@ -23,6 +23,7 @@
     - Factory
 ### 4. Testowanie - Generalnie
   - Page Object Model https://testingplus.me/2017/03/05/page-object-model/
+  - Page Factory
   - Jak tworzyć scenariusze, przypadki i dane testowe
   - BDD vs TDD https://www.jcommerce.pl/jpro/artykuly/testy-bdd-czy-naprawde-sa-potrzebne
 ### 5. Cucumber
@@ -36,4 +37,5 @@
   - git pull
   - Trunk Based Development vs Git Flow
 ### 9. Selenium
+  - Dobre praktyki Selenium i pisania testów: https://www.browserstack.com/guide/best-practices-in-selenium-automation
 ### 10. SCRUM, praca w zespole
