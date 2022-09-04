@@ -26,10 +26,12 @@
   - Page Factory
   - Jak tworzyć scenariusze, przypadki i dane testowe
   - BDD vs TDD https://www.jcommerce.pl/jpro/artykuly/testy-bdd-czy-naprawde-sa-potrzebne
-### 5. Cucumber
+### 5. Cucumber (BDD)
   - Przerobienie turoriali: https://cucumber.io/docs/guides/, https://cucumber.io/docs/gherkin/, https://cucumber.io/docs/bdd/
 ### 6. RestAssured
 ### 7. Java 8 - programowanie funkcjonalne / streamy
+  - stream co to jest jak to działa, jak utworzyć stream, zalety / wady, po co używać
+  - postawowe operacje na streamie .map .collect https://stackify.com/streams-guide-java-8/ 
 ### 8. GIT
   - merge vs rebase
   - merge ff
@@ -39,3 +41,4 @@
 ### 9. Selenium
   - Dobre praktyki Selenium i pisania testów: https://www.browserstack.com/guide/best-practices-in-selenium-automation
 ### 10. SCRUM, praca w zespole
+  - Daily, Sprint, Review, Retrospekcja
