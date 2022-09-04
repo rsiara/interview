@@ -18,10 +18,15 @@
 ### 3. Java
   - Wzorce projektowe: 
     - Strategia
+    - Singleton
+    - Builder
+    - Factory
 ### 4. Testowanie - Generalnie
+  - Page Object Model https://testingplus.me/2017/03/05/page-object-model/
   - Jak tworzyć scenariusze, przypadki i dane testowe
   - BDD vs TDD https://www.jcommerce.pl/jpro/artykuly/testy-bdd-czy-naprawde-sa-potrzebne
 ### 5. Cucumber
+  - Przerobienie turoriali: https://cucumber.io/docs/guides/, https://cucumber.io/docs/gherkin/, https://cucumber.io/docs/bdd/
 ### 6. RestAssured
 ### 7. Java 8 - programowanie funkcjonalne / streamy
 ### 8. GIT
