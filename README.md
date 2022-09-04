@@ -20,6 +20,7 @@
     - Strategia
 ### 4. Testowanie - Generalnie
   - Jak tworzyć scenariusze, przypadki i dane testowe
+  - BDD vs TDD https://www.jcommerce.pl/jpro/artykuly/testy-bdd-czy-naprawde-sa-potrzebne
 ### 5. Cucumber
 ### 6. RestAssured
 ### 7. Java 8 - programowanie funkcjonalne / streamy
@@ -28,5 +29,6 @@
   - merge ff
   - git fetch
   - git pull
+  - Trunk Based Development vs Git Flow
 ### 9. Selenium
 ### 10. SCRUM, praca w zespole
